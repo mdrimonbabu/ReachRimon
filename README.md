@@ -6,7 +6,7 @@
 ## 🗨 About Me
 I’m a Web developer passionate about making error-free websites with 100% client satisfaction and I serve my expertise for your business with effective worldwide Internet exposure at low prices. I will deliver professional, modern, and high-quality responsive WordPress and HTML CSS websites that promote your brand frequently. I complete all my projects with absolute devotion and perfection. SO, LET’S GET STARTED! Because "Your satisfaction is our Responsibility."
 
-## 👨‍💻 Skills & Experiance:
+## 👨‍💻 Skills & Experiance
 - ✅ WordPress 
 - ✅ HTML / CSS / Bootstrap
 - ✅ Photoshop / Illustrator
