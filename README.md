@@ -8,8 +8,6 @@ I’m a Web developer passionate about making error-free websites with 100% clie
 
 ## 👨‍💻 Skills & Experiance:
 - ✅ WordPress 
-- ✅ PHP
-- ✅ JavaScript
 - ✅ HTML5 / CSS3 / SASS / Bootstrap
 - ✅ Photoshop / Illustrator
 
