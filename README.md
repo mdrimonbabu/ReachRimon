@@ -1,5 +1,5 @@
 # Hi, I'm Rimon 👋
-## Professional web designer & developer. 	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;![Profile views](https://gpvc.arturio.dev/reachrimon)  
+## Professional web designer & developer. 	&nbsp;	&nbsp; &nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;![Profile views](https://gpvc.arturio.dev/reachrimon)  
 
 ![I'm a professional web designer & developer.](https://scontent.fjsr11-1.fna.fbcdn.net/v/t39.30808-6/301489097_173883781818991_5044065559237546507_n.jpg?stp=dst-jpg_s960x960&_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFMEyNpdIAbES68kywhQNW5o6ALdt2yyo-joAt23bLKj_I1abZW-hOOpXBgcQzUXpCH7BeiYcdnl8iRab26TfHI&_nc_ohc=RKhcIX7RaVUAX8ijuu5&_nc_ht=scontent.fjsr11-1.fna&oh=00_AT_ld8dfMWhGNZDCqUCIDhIHoy0nH7ia5y7DXbO_MBPaGg&oe=6311EF42)
 
