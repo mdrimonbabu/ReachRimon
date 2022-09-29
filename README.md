@@ -13,14 +13,17 @@ I’m a Web developer passionate about making error-free websites with 100% clie
 
 </p>
 
-## 👨‍💻 Skills & Experiance
+##  Skills & Experiance
 - ✅ WordPress 
 - ✅ HTML / CSS / Bootstrap
 - ✅ Photoshop / Illustrator
 
-## 💌 For Business Inquiries
-- ✅reachrimon@gmail.com
-- ✅https://reachrimon.com
+##  For Business Inquiries
+- 💌 reachrimon@gmail.com
+- 💌 admin@reachrimon.com
+
+##  Portfolio Website 
+- 🌐 https://reachrimon.com
 
 
 
