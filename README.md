@@ -26,7 +26,5 @@ I’m a Web developer passionate about making error-free websites with 100% clie
 - 🌐 https://reachrimon.com
 
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7e28faadc283819afba6b86a28d2688786f186bf484c14f8a6d4bb2143b4faab/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d73686f766f616c77617973266c61796f75743d636f6d70616374"><img src="https://camo.githubusercontent.com/7e28faadc283819afba6b86a28d2688786f186bf484c14f8a6d4bb2143b4faab/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d73686f766f616c77617973266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways&amp;layout=compact" style="max-width: 100%;"></a></p>
-
 
 
